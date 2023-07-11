@@ -236,7 +236,7 @@ body {
     background-image: url('../Flower Asset/Rectangle\ 9.png');
     width: 2000px;
     height: 949px;
-    padding-bottom: 100px;
+    padding-bottom: 10px;
     background-repeat: no-repeat;
     background-size: 2200px 700px;
     align-items: center;
@@ -266,10 +266,21 @@ body {
     background: #FFF;
     height: 65px;
     width: 700px;
-    border: 7px solid tomato;
-    margin-top: 20px;
+    /* border: 7px solid  #E55473; */
+    margin-top: 15px;
     font-size: 28px;
 }
 .bu{
+    display: inline-flex;
+     padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    align-items: center;
+    height: 70px;
 
 }
