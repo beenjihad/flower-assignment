@@ -84,11 +84,13 @@ body {
     margin-top: 15px;
 
 }
-.container{
+
+.container {
     display: flex;
     gap: 90px;
     margin-left: 600px;
     margin-top: 70px;
+    padding-bottom: 60px;
 }
 
 .ditio-chobi {
@@ -98,30 +100,38 @@ body {
     border-radius: 300px 300px 0px 0px;
     margin-bottom: 70px;
 }
-.img1{
+
+.img1 {
     margin-top: 30px;
     margin-left: 20px;
     width: 350px;
     height: 500px;
     padding-left: 50px;
 }
-.img2{
+
+.img2 {
     margin-top: 30px;
     margin-left: 10px;
     width: 350px;
     height: 500px;
     padding-left: 50px;
 }
-.img3{
+
+.img3 {
     margin-top: 30px;
     margin-left: 25px;
     width: 270px;
     height: 499px;
     padding-left: 50px;
-    
+
 }
 
 .flower-tittle {
-    margin: 30px;
+    color: #272727;
     text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 50px;
 }
