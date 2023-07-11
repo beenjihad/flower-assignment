@@ -1,0 +1,53 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header-le {
+    background-color: rgba(229, 84, 115, 0.10);
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header-lets {
+    padding-top: 200px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 100px;
+    font-weight: 800;
+    line-height: normal;
+    width: 50%;
+    padding-left: 500px;
+
+
+}
+
+.first-flo {
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+    padding-right: 500px;
+
+}
+
+.header-le {
+    display: flex;
+}
+
+.button-shop {
+    position: absolute;
+}
+
+.header-para {
+    display: flex;
+    padding-left: 497px;
+    width: 50%;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 40px;
+}
